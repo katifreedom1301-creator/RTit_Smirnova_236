@@ -3,7 +3,7 @@
 ## Описание
 Набор автотестов для проверки функциональности сайта https://b2c.passport.rt.ru/auth/realms/b2c/protocol/openid-connect/auth?client_id=account_b2c&redirect_uri=https://b2c.passport.rt.ru/account_b2c/login&response_type=code&scope=openid&state=25caca26-7024-4f3c-a046-b32ec6adcc9d
 
-## Важно заполнить файл config вашими тестируемыми данными, мной тестирования проводилось на своих данных 
+## Важно заполнить файл config вашими тестируемыми данными, мной тестированиу проводилось на своих данных 
 
 ## Установка
 1. Клонировать репозиторий:
@@ -16,7 +16,7 @@
 - `utils/` - вспомогательные утилиты
 - `requirements.txt` - зависимости Python, 
 
-## К сожалению, все тесты вместе запустить не удалось, не уполучилось пока учовершенствавать свои знания для этого, все идеально сработали по одному! 
+## К сожалению, все тесты вместе запустить не удалось, не получилось пока усовершенствовать свои знания для этого, все идеально сработали по одному! 
 сылки на документацию 
 https://docs.google.com/spreadsheets/d/1Gc4b3tU5xXf5_Avxa1MRISZjUYWfyJxVfQnE_p3ab4Y/edit?usp=sharing - ссылка на баг-репорт, и тест кейсы - таблицы 
-- ссылка на отчет - документ 
+https://docs.google.com/document/d/14MQ8ZlzlgOQkXGFWzq8Tq3hfQJiKwhdByq-BDq75C2o/edit?usp=sharing - ссылка на отчет - документ 
