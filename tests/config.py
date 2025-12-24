@@ -1,17 +1,17 @@
 TEST_ACCOUNTS = {
     "acc1": {  # account_1 - с номером
-        "email": "katifreedom1301@gmail.com",
-        "phone": "+79093683573", 
-        "password": "QWyn31)(",
-        "first_name": "Екатерина",
-        "last_name": "Смирнова",
+        "email": "",
+        "phone": "!!!!! Заполните ваши данные !!!!!", 
+        "password": "!!!!! Заполните ваши данные !!!!!",
+        "first_name": "!!!!! Заполните ваши данные !!!!!",
+        "last_name": "!!!!! Заполните ваши данные !!!!!",
     },
     "acc2": {  # account_2 - с почтй
-        "email": "ekosmirnova@kpfu.ru",
+        "email": "!!!!! Заполните ваши данные !!!!!",
         "phone": "",
-        "password": "ASgh48^^",
-        "first_name": "Анна",
-        "last_name": "Козлинкина",
+        "password": "!!!!! Заполните ваши данные !!!!!",
+        "first_name": "!!!!! Заполните ваши данные !!!!!",
+        "last_name": "!!!!! Заполните ваши данные !!!!!",
     }
 }
 
